@@ -1,0 +1,23 @@
+{
+  "name": "wyltkwb",
+  "version": "1.0.0",
+  "description": "wouldnt you like to know weather boy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glitchgirl/wyltkwb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glitchgirl/wyltkwb/issues"
+  },
+  "homepage": "https://github.com/glitchgirl/wyltkwb#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4",
+    "unirest": "^0.6.0"
+  }
+}
